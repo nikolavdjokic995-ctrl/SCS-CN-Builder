@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "SCS-CN Builder"
+message: "If you use this software, please cite it using the metadata from this file. Replace the DOI after archival publication."
+type: software
+authors:
+  - family-names: "Djokic"
+    given-names: "Nikola V."
+version: "1.0"
+date-released: "2026-05-05"
+license: "GPL-3.0-or-later"
+repository-code: "https://github.com/nikolavdjokic/scs-cn-builder"
+abstract: "A QGIS plugin for automated SCS Curve Number estimation using LULC and Hydrologic Soil Group data, producing CN2/CN3 raster maps, basin statistics, quality-control summaries and an HTML report."
