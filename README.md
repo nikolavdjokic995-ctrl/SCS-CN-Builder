@@ -5,6 +5,7 @@
 **Author:** Nikola V. Djokic  
 **Version:** 1.0  
 **License:** GPL-3.0-or-later
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20036703.svg)](https://doi.org/10.5281/zenodo.20036703)
 
 ## Overview
 
